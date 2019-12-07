@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//Resources/Reports/DailyAudit.jrxml=UTF-8
+encoding//Resources/Reports/DailyFreePlay1.jrxml=UTF-8
+encoding//Resources/Reports/ExpiredTickets.jrxml=UTF-8
+encoding//Resources/Reports/LiveTickets.jrxml=UTF-8
+encoding//Resources/Reports/TicketsCashedByPOS.jrxml=UTF-8
+encoding//Resources/Reports/TicketsCashedByPOSSort.jrxml=UTF-8
+encoding//Resources/Reports/TicketsCashedByVendor.jrxml=UTF-8
+encoding//Resources/Reports/TicketsIssuedByVendor.jrxml=UTF-8
